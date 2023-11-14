@@ -1,0 +1,33 @@
+#imagem1 {
+    width: 50%;
+}
+
+#imagem2 {
+   width: 40%;
+}
+
+#imagem3 {
+   width: 40%;
+}
+
+#imagem4 {
+   width: 40%;
+}
+
+
+p{
+    text-align: justify;
+}
+
+h1 {
+text-align: center;
+color:  red;
+border-width: 10px;
+border-style: solid;
+border-color: black; 
+ }
+
+
+
+
+
